@@ -1,7 +1,9 @@
-# Gif to SparrowV2
+# _ to SparrowV2
 
-## What does this do?
+## What even is in this repo?
 
-It's kinda obvious, you can use this tool to batch create sprites with Adobe sparrowV2 spritesheets, idk what else to say
+In this repo you will find the tools I have made to make sparrowV2 spritesheets from certain file formats
 
-TO BE UPDATED IN FUTURE!
+Currently supported: gif
+
+Todo: Video files
