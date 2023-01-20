@@ -6,4 +6,4 @@ In this repo you will find the tools I have made to make sparrowV2 spritesheets 
 
 Currently supported: gif
 
-Todo: Video files
+Todo: make converters work with height too so videos dont become insanely long
