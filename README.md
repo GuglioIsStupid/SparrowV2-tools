@@ -1,9 +1,9 @@
-# _ to SparrowV2
+# SparrowV2 tools
 
 ## What even is in this repo?
 
-In this repo you will find the tools I have made to make sparrowV2 spritesheets from certain file formats
+This repo will literally just have tools for sparrowv2 sprites ig
 
 Currently supported: gif, videos
 
-Todo: make converters work with height too so videos dont become insanely long
+Todo: make converters work with height too so the width doesn't become insanely long
